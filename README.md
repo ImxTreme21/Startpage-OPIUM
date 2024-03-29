@@ -1,7 +1,7 @@
 
 # A TRUE OPIUM STARTPAGE
 
-Minimalist OPIUM starpage for yall carti dickriders lol.
+Minimalist OPIUM starpage for yall carti meatriders lol.
 
 > OMG THIS IS SO OPIUM I WILL DROP ALBUM, LUV ALL MY SUPPORTERS ITS TIME (Jordan Terrell Carter)
 
