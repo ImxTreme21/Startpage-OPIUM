@@ -16,7 +16,7 @@ Minimalist OPIUM starpage for yall carti dickriders lol.
 
 #### How  do I use this incredible, pretty, amazing, beautiful and definetely original startpage?
 
-Read the Installation instructions
+Read [this](https://github.com/ImxTreme21/Startpage-OPIUM/tree/main?tab=readme-ov-file#installation-instructions)
 
 #### How to I edit this to my liking?
 
