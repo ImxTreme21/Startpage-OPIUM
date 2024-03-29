@@ -8,6 +8,8 @@ Minimalist OPIUM starpage for yall carti dickriders lol.
 - The style its based on what I like and I know prolly everyone won´t like the terminal style of the page, feel free to change it idc.
 - If you like other artists like idk Hannah Montana or whatever I encourage you to change the pics and songs to something that suits your liking (and please push or fork this repo so more people can choose between styles and yk)
 - Carti drop the fucking album
+- 
+## Preview
 
 ![img1](https://github.com/ImxTreme21/Startpage-OPIUM/blob/main/preview/img1.png)
 
@@ -23,9 +25,13 @@ Uhh, edit the html file, add images and music to their respective folders and ed
 
 If you don't know anything about code don't worry, there are instructions inside the html and js file.
 
+#### Who draw Carti and Ken in anime style?
+
+[This dude](https://www.instagram.com/yukimura.exe/?img_index=1), show him some support.
+
 #### Did you make all of this from scratch?
 
-Nope, I'm lazy af, I just edited this startpage bc I liked the style and added some simple stuff like a random image instead of a single one, random song, and I tried to add a weather widget but It didn't fit like I wanted and I'm too lazy to make it look good. Also, thanks to ChatGPT for helping out with all the javascript since I don't know shit about it.
+Nope, I'm lazy af, I just edited [this startpage](https://github.com/ycatsh/boring-fox) bc I liked the style and added some simple stuff like a random image instead of a single one, random song, and I tried to add a weather widget but It didn't fit like I wanted and I'm too lazy to make it look good. Also, thanks to ChatGPT for helping out with all the javascript since I don't know shit about it.
 
 #### How do I contribute a custom style?
 
