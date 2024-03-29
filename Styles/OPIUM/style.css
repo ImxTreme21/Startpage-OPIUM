@@ -1,0 +1,131 @@
+:root {
+    --color-bg: #1E2021;
+    --color-fg: #f7eac6;
+    --color-link: #c9c9c9;
+    --color-link-visited: #c9c9c9;
+    --color-link-hover: #eda2f2 ;
+    --color-mipene: #1A1C1D
+}
+
+html, body {
+  background: var(--color-mipene);
+  color: var(--color-fg);
+  font-family: "Monocraft", monospace;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 460px 800px 1fr;
+  grid-template-areas:
+    ". left right .";
+  column-gap: 60px;
+  justify-items: left;
+  align-items: center;
+  min-height: 100%;
+}
+
+.left {
+  grid-area: left;
+  aspect-ratio: 1/1;
+}
+
+.right {
+  grid-area: right;
+  height: 350px ;
+  width: 100%;
+  background-color: #1A1C1D;
+  padding-bottom: 30px;
+  padding-left: 15px;
+}
+
+
+.image img {
+  padding-top: 100px;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.head {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  padding-left: 24px;
+  font-size: 22px;
+  padding-top: 60px;
+
+}
+
+.head2 {
+  display: flex;
+  flex-direction: row; /* Cambiado de column a row */
+  align-items: center; /* Cambiado de left a center */
+  padding-left: 24px;
+  font-size: 22px;
+  padding-top: 15px;
+}
+
+.category {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+}
+
+.bookmarks {
+  display: flex;
+  justify-content: center;
+}
+
+.search-text {
+  margin-right: 10px;
+}
+
+.search-form {
+  width: 20rem;
+  outline: none;
+  border: none;
+  background-color: #1a1c1d;
+  color: #F7EAC6;
+  padding-left: 15px;
+  font-size: 22px;
+  padding-top: 0px;
+  font-family: "Monocraft", monospace;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.title {
+  font-size: 20px;
+  padding-bottom: 7.5px;
+  color: #fefae0;
+
+}
+
+li {
+  font-size:16px;
+  list-style-type: none;
+  padding: 5px;
+}
+
+a:link {
+  text-decoration: none;
+  color: var(--color-link);
+}
+
+a:visited {
+  color: var(--color-link-visited);
+}
+
+a:hover {
+  color: var(--color-link-hover);
+}
