@@ -8,7 +8,6 @@ Minimalist OPIUM starpage for yall carti dickriders lol.
 - The style its based on what I like and I know prolly everyone won´t like the terminal style of the page, feel free to change it idc.
 - If you like other artists like idk Hannah Montana or whatever I encourage you to change the pics and songs to something that suits your liking (and please push or fork this repo so more people can choose between styles and yk)
 - Carti drop the fucking album
-- 
 ## Preview
 
 ![img1](https://github.com/ImxTreme21/Startpage-OPIUM/blob/main/preview/img1.png)
