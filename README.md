@@ -3,7 +3,7 @@
 
 Minimalist OPIUM starpage for yall carti meatriders lol.
 
-> OMG THIS IS SO OPIUM I WILL DROP ALBUM, LUV ALL MY SUPPORTERS ITS TIME (Jordan Terrell Carter)
+> “This man was in philly installing this startpage mid pandemic the day my son was born even tho it was a scheduled c section.“ - Iggy Azalea
 
 - The style its based on what I like and I know prolly everyone won´t like the terminal style of the page, feel free to change it idc.
 - If you like other artists like idk Hannah Montana or whatever I encourage you to change the pics and songs to something that suits your liking (and please push or fork this repo so more people can choose between styles and yk)
@@ -23,6 +23,10 @@ Read [this](https://github.com/ImxTreme21/Startpage-OPIUM/tree/main?tab=readme-o
 Uhh, edit the html file, add images and music to their respective folders and edit the javascript.
 
 If you don't know anything about code don't worry, there are instructions inside the html and js file.
+
+#### The font is not the same as the preview, why?
+
+The font used in the preview is [Monocraft](https://github.com/IdreesInc/Monocraft), if you want it to show properly install it, if you prefer another font you can change it in the CSS file.
 
 #### Who draw Carti and Ken in anime style?
 
