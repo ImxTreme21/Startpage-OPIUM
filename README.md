@@ -1,13 +1,13 @@
 
 # A TRUE OPIUM STARTPAGE
 
-Minimalist OPIUM starpage for yall carti meatriders lol.
+Minimalist OPIUM starpage for yall carti meatriders.
 
 > “This man was in philly installing this startpage mid pandemic the day my son was born even tho it was a scheduled c section.“ - Iggy Azalea
 
-- The style its based on what I like and I know prolly everyone won´t like the terminal style of the page, feel free to change it idc.
-- If you like other artists like idk Hannah Montana or whatever I encourage you to change the pics and songs to something that suits your liking (and please push or fork this repo so more people can choose between styles and yk)
-- Carti drop the fucking album
+- The style its based on what I like and I know prolly everyone won´t like the terminal style of the page, feel free to change it.
+- If you like other artists like idk Kanye, Lil Uzi Vert, Taylor Swift or whatever I encourage you to change the pics and songs to something that suits your liking (and please push or fork this repo so more people can choose between styles)
+- Carti drop the fucking album.
 ## Preview
 
 ![img1](https://github.com/ImxTreme21/Startpage-OPIUM/blob/main/preview/img1.png)
@@ -38,7 +38,7 @@ Nope, I'm lazy af, I just edited [this startpage](https://github.com/ycatsh/bori
 
 #### How do I contribute a custom style?
 
-Make a pull request with your style, if my washing machine likes it I will  push an update
+Make a pull request with your style, if my washing machine likes it I will push an update
 
 #### How do I get a gf?
 
@@ -59,3 +59,4 @@ Nope
 - Select the url, it would prolly look like this:  
   ```"file:///home/youruser/yourfolder/Styles/OPIUM/index.html"```
 - Add it to the startpage setting of your browser
+- Find a cure to cancer
