@@ -6,7 +6,7 @@ Minimalist OPIUM starpage for yall carti meatriders.
 > “This man was in philly installing this startpage mid pandemic the day my son was born even tho it was a scheduled c section.“ - Iggy Azalea
 
 - The style its based on what I like and I know prolly everyone won't like the terminal style of the page, feel free to change it.
-- If you like other artists like idk Kanye, Lil Uzi Vert, Taylor Swift or whatever I encourage you to change the pics and songs to something that suits your liking (and please make a pull request or fork this repo so more people can choose between styles)
+- If you like other artists like idk Kanye, Lil Uzi Vert, Taylor Swift or whatever I encourage you to change the pics and songs to something that suits your liking 
 - Carti drop the fucking album.
 ## Preview
 
